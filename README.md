@@ -1,5 +1,4 @@
-## Hi there 👋
-
+##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=30&letterSpacing=inherit&duration=4500&pause=500&color=0835AF&width=435&lines=Hi+there+%F0%9F%91%8B;this's+-M4hm0u%C3%90%C3%9722-+%F0%9F%92%BB%F0%9F%94%8D%E2%9C%85+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 <!--
 **M7moudx22/M7moudx22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
