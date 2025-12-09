@@ -3,8 +3,8 @@
 
 <p align="center"><img src="https://github.com/M7moudx22/M7moudx22/blob/main/terminal(6).gif?raw=true" width="100%" height="auto"/></p> 
 
-I'm **[`M7moudx22`]** ⚡, a Security Researcher 🔍, Bug Hunter 🐞, and offensive cybersecurity enthusiast 💻.  
-I specialize in web security testing 🌐 and deep-dives into real-world attack surfaces 🛡️.  
+I'm **[`M7moudx22`]** ⚡, formally a receptionist, a security researcher 🔍, bug hunter 🐞, and offensive cybersecurity enthusiast 💻.  
+My curiosity in web security testing 🌐 and deep-dives into real-world attack surfaces 🛡️.  
 With a strong passion for breaking, understanding, and securing digital systems ⚙️, my mission is to identify security flaws 🚨, strengthen defenses 🧱, and contribute to a safer and more resilient internet 🌍.
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
@@ -19,4 +19,4 @@ With a strong passion for breaking, understanding, and securing digital systems 
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
 </div>
-      
+
