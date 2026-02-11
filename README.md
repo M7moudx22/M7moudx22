@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://github.com/M7moudx22/M7moudx22/blob/main/terminal(6).gif?raw=true" width="100%" height="auto"/></p> 
 
-I'm **[`M7moudx22`]** ⚡, formally a receptionist, currently a security researcher 🔍, bug hunter 🐞, and offensive cybersecurity enthusiast 💻.  
+**[`M7moudx22`]** ⚡, formally a receptionist, currently a security researcher 🔍, bug hunter 🐞, and offensive cybersecurity enthusiast 💻.  
 My curiosity in web security testing 🌐 and deep-dives into real-world attack surfaces 🛡️.  
 With a strong passion for breaking, understanding, and securing digital systems ⚙️, my mission is to identify security flaws 🚨, strengthen defenses 🧱, and contribute to a safer and more resilient internet 🌍.
 
